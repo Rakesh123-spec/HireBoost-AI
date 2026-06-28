@@ -1,1 +1,2 @@
 # HireBoost-AI
+🚀 HireBoost AI is an AI-powered Resume & Interview Assistant designed to help students and freshers improve their resumes, increase ATS scores, and prepare for job interviews. The platform provides ATS resume analysis, personalized improvement suggestions, interview question generation, user authentication, premium plans, payment integration, and a modern dashboard experience. Built with Next.js, TypeScript, Supabase, Razorpay, and AI technologies.
